@@ -3,7 +3,7 @@
 This is a WEB Automation Testing program created for the Demoblaze.
 
 ## Overall Report
-![Overall Report](overall.png)
+![Overall Report](Overall.png)
 
 ## Tools and Technology Stack
 - **Integrated Development Environment (IDE):** [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/)
