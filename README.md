@@ -27,7 +27,7 @@ This is a WEB Automation Testing program created for the Demoblaze.
 
 # HOW TO RUN PROJECT
 
-Here are the steps to run the QE-WEB application:
+Here are the steps to run the Demoblaze-WebAutomation application:
 
 1. Clone this repository into your local system using the following command:
 
